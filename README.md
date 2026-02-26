@@ -1,5 +1,5 @@
 # 🍔 Redbird Feeder - Tracking free food & items offered by ISU RSOs
-## Experience the easiest way to shamelessly attend an event for food and dip.
+## Experience the easiest way to shamelessly attend an event for food.
 
 Who doesn't love free food? Imagine if you could see when and where free food and items would be offered on campus? Imagine no more! Introducing Redbird Feeder, the one stop shop for all things free on campus.
 
